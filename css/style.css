@@ -82,7 +82,7 @@ body{
     text-transform: uppercase;
     font-family: 'Roboto Condensed', sans-serif;
 }
-.personal-info li a{
+.personal-info li span a{
     text-decoration: none;
     text-align: center;
     font-size: 20px;
