@@ -90,12 +90,12 @@ body{
     height: 20px;
     width: 150px;
     cursor: pointer;
+    background-color: #fff;
 }
 .personal-info .github{
     display: block;
     height: 22px;
     width: 150px;
-    background-color: #fff;
     margin-bottom: 55px;
     text-align: center;
     border-radius: 2px;
