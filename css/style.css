@@ -26,8 +26,8 @@ body{
 .about .photo-inner{
     float: left;
     background: url(../images/photo-inner.png) no-repeat;
-    width: 214px;
-    height: 214px;
+    width: 250px;
+    height: 280px;
     padding: 12px 0 0 19px;
 }
 
